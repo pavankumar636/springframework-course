@@ -1,7 +1,7 @@
-#Steps to start the project: 
+# Steps to start the project: 
 
-     ## Step:1 
-                        1)  git  clone the code ( https://github.com/bsmahi/springframework-course.git ) in the local machine/server.
+     ## Step1:  
+                  1)  git  clone the code ( https://github.com/bsmahi/springframework-course.git ) in the local machine/server.
 		  2) Go to the Project folder which has Source_code 
 		            source_code: learning Spring
 		  3) Install java 
@@ -16,11 +16,5 @@
 			
 			            3.1) The Maven  will create Target folder
 			
-			
-			
-			
 			           3.2 ) Target Folder will have .jar file
-			
-			
-		
-             ![image](https://github.com/pavankumar636/springframework-course/assets/31065669/865f0c79-e3a7-4c3b-8061-b42bf167b135)
+						![image](./jar_* "JarFiles")
