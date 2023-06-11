@@ -1,6 +1,4 @@
 # Steps to start the project: 
-
-#Testing local
    # Step:1  
    ## 1)  git  clone the code 
    	 https://github.com/bsmahi/springframework-course.git  
